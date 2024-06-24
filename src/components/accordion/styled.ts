@@ -1,6 +1,9 @@
 import styled from 'styled-components';
 
-export const Wrapper = styled.div``;
+export const Wrapper = styled.div`
+  height: 100vh;
+  padding: 20px;
+`;
 
 export const Title = styled.h1`
   text-align: center;
